@@ -2,3 +2,19 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
+
+.header_section {
+    display: flex;
+    padding: 15px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img{
+    width: 50px;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0px 15px;
+}
